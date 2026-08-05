@@ -1,5 +1,6 @@
 ---
 type: Type
+_sort: "modified:desc"
 ---
 
 # Note
